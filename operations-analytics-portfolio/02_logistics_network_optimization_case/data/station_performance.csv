@@ -1,0 +1,10 @@
+station,lat,lon,daily_capacity,daily_volume,cost_per_parcel_eur,sla_24h_rate,utilization,status
+Hamburg Hub,53.55,9.99,21000,20500,1.92,0.934,0.976,Near capacity
+Berlin DC,52.52,13.4,19000,18800,1.88,0.941,0.989,Near capacity
+Frankfurt DC,50.11,8.68,26000,28500,2.15,0.902,1.096,Overloaded
+Munich DC,48.14,11.58,18000,16300,2.05,0.918,0.906,Near capacity
+Cologne Station,50.94,6.96,8000,9100,2.44,0.884,1.138,Overloaded
+Leipzig Station,51.34,12.37,7000,6800,2.31,0.901,0.971,Near capacity
+Stuttgart Station,48.78,9.18,7600,6200,2.58,0.872,0.816,Balanced
+Dortmund Station,51.51,7.46,8500,9900,2.72,0.861,1.165,Overloaded
+Nuremberg Station,49.45,11.08,6500,4100,2.81,0.895,0.631,Underutilized
