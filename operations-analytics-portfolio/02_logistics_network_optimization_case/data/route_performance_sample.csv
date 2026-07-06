@@ -1,0 +1,12 @@
+origin,destination,distance_km,daily_parcels,cost_per_parcel_eur,transit_hours,route_cost_daily
+Hamburg Hub,Berlin DC,320.6,800,6.68,6.2,5344.00
+Hamburg Hub,Munich DC,507.5,2293,9.47,9.2,21714.71
+Hamburg Hub,Stuttgart Station,435.4,3747,8.79,7.6,32936.13
+Hamburg Hub,Dortmund Station,292.5,1514,5.19,5.9,7857.66
+Berlin DC,Frankfurt DC,477.0,3938,8.05,7.4,31700.90
+Berlin DC,Dortmund Station,542.3,4068,10.22,9.6,41574.96
+Frankfurt DC,Cologne Station,171.9,5114,4.93,4.7,25212.02
+Frankfurt DC,Dortmund Station,167.1,4742,4.71,3.2,22334.82
+Frankfurt DC,Nuremberg Station,224.0,5401,4.66,5.3,25168.66
+Leipzig Station,Dortmund Station,442.2,936,8.61,8.3,8058.96
+Dortmund Station,Nuremberg Station,374.9,5086,8.07,7.4,41044.02
